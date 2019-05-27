@@ -1,0 +1,7 @@
+{
+  "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+  "updateDate": "2016-05-23T00:00:00.0Z",
+  "titleText": "Amazon Developer Blog, week in review May 23rd",
+  "mainText": "a system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.",
+  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+}
