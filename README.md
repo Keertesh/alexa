@@ -2,6 +2,10 @@
 
 This project is a multi-agent system designed for real-time analysis of tax filing data. It aims to detect trends, make predictions, identify influencing factors, generate insights, simulate policy changes, and support multiple languages.
 
+## Local Setup
+
+For detailed instructions on how to set up your local development environment, please see the [Local Environment Setup Guide](LOCAL_SETUP.md).
+
 ## How to Run
 
 The primary way to run the agent currently is by executing the `src/agents/data_ingestion_agent.py` script directly.
